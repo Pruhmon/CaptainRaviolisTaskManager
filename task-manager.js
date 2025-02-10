@@ -8,7 +8,7 @@ function showMenu() {
         "2. Add Task\n" +
         "3. Remove Task\n" +
         "4. Exit\n" +
-        "Enter your choice, bum:"
+        "Enter your choice, SqalliWagger:"
     );
 }
 
